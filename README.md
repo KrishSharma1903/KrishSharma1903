@@ -1,83 +1,172 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=600&height=60&duration=4000&pause=1000&color=58A6FF&lines=Hi+there!+👋+I'm+Krish+Sharma;AI%2FML+Engineer+%7C+SDE;I+build+AI+that+sees+the+world" />
-</h1>
-
-<p align="center">
-  <b>CSE Undergraduate @ Bennett University</b> &nbsp;|&nbsp; AI/ML Engineer &nbsp;|&nbsp; B.Tech 2027
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-3fb950?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-AI%2FML%20%7C%20Computer%20Vision-58a6ff?style=flat-square" />
-  <img src="https://img.shields.io/badge/Location-Ghaziabad%2C%20IN-e3b341?style=flat-square" />
-</p>
-
----
-
-### `> about me`
-
-I'm a Computer Science undergrad obsessed with building AI that solves problems you can actually see and feel — from detecting fires before they spread to making sign language visible to machines. I write code that bridges the gap between raw data and real-world impact.
-
-- 🔭 Currently building: **Smoke & Fire Detection** with YOLOv8
-- 🤟 Also working on: **Sign Language Recognition** using CNN
-- 🤝 Open to collaborate on: AI/ML projects & scalable full-stack apps
-- 🎯 Goal: Ship models that matter, not just ones that benchmark well
-
----
-
-### `> active projects`
-
-🤟 **Sign Language Recognition**  
-Real-time ASL detection using CNN — making human gestures machine-readable to bridge communication gaps.  
-`Python` `TensorFlow` `Keras` `OpenCV` `CNN`
-
-🔥 **Smoke & Fire Detection**  
-Early-warning hazard detection system powered by YOLOv8 — because a second of early detection can save lives.  
-`Python` `YOLOv8` `OpenCV` `Computer Vision`
-
----
-
-### `> tech stack`
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=58a6ff)
-![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=58a6ff)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=f78166)
-![Keras](https://img.shields.io/badge/Keras-0d1117?style=for-the-badge&logo=keras&logoColor=f78166)
-![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=3fb950)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=e3b341)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=58a6ff)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-0d1117?style=for-the-badge&logo=yolo&logoColor=f78166)
-
----
-
-### `> github stats`
-
 <div align="center">
 
-  ![Krish's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=KrishSharma1903&theme=github_dark&hide_border=true&show_icons=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,50:0D47A1,100:00BFFF&height=220&section=header&text=KRISH%20SHARMA&fontSize=52&fontColor=E6F1FF&fontAlignY=38&desc=Building%20AI%20that%20solves%20real%20problems&descAlignY=58&descSize=18&animation=fadeIn"/>
 
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KrishSharma1903&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=f78166&currStreakLabel=58a6ff)
+<br/>
 
-  ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KrishSharma1903&theme=github_dark&hide_border=true&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=8b949e)
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=1200&color=00BFFF&center=true&vCenter=true&width=600&lines=Computer+Science+Undergraduate;Artificial+Intelligence+%2F+Machine+Learning;Computer+Vision+Engineer;Turning+Research+into+Working+Systems"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/B.Tech_CSE-Bennett_University-0A0E27?style=for-the-badge&labelColor=00BFFF&color=0A0E27"/>&nbsp;
+<img src="https://img.shields.io/badge/Class_of-2027-0A0E27?style=for-the-badge&labelColor=00BFFF&color=0A0E27"/>&nbsp;
+<img src="https://img.shields.io/badge/Delhi-India-0A0E27?style=for-the-badge&labelColor=00BFFF&color=0A0E27"/>
 
 </div>
 
+<br/>
+
 ---
 
-### `> connect`
+## `01` About
 
-<p align="left">
-  <a href="mailto:Krishsharma1903@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/krish-sharma-csdev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/KrishSharma1903" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=e6edf3&labelColor=0d1117" />
-  </a>
+<table>
+<tr>
+<td width="60%" valign="top">
+
+I'm a Computer Science undergraduate focused on **Artificial Intelligence, Machine Learning, and Computer Vision** — I like taking research-grade ideas and turning them into systems that actually run, detect, and predict in real time.
+
+Right now I'm deep in the intersection of **vision models and applied ML**, building things that go beyond notebooks — real-time detection pipelines, CNN-based classifiers, and end-to-end AI products.
+
+**Currently exploring:**
+```
+→ Retrieval-Augmented Generation for multimodal tasks
+→ Real-time object detection at the edge
+→ Classical ML fundamentals → deep systems
+```
+
+</td>
+<td width="40%" valign="top">
+
+```yaml
+name:      Krish Sharma
+role:      CS Undergraduate
+university: Bennett University
+graduation: 2027
+location:  Delhi, India
+
+focus:
+  - Artificial Intelligence
+  - Machine Learning
+  - Computer Vision
+  - Software Development
+
+status:    "shipping > studying"
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## `02` Featured Work
+
+<table>
+<tr>
+<td width="50%">
+<h3>🔥&nbsp; Smoke & Fire Detection</h3>
+<p>Real-time smoke and fire detection system built for early-warning surveillance use cases.</p>
+<p>
+<img src="https://img.shields.io/badge/YOLOv8-0A0E27?style=flat-square&labelColor=00BFFF"/>
+<img src="https://img.shields.io/badge/OpenCV-0A0E27?style=flat-square&labelColor=00BFFF"/>
+<img src="https://img.shields.io/badge/Computer_Vision-0A0E27?style=flat-square&labelColor=00BFFF"/>
 </p>
+</td>
+<td width="50%">
+<h3>🤟&nbsp; Sign Language Recognition</h3>
+<p>CNN-based real-time gesture recognition system for ASL translation.</p>
+<p>
+<img src="https://img.shields.io/badge/TensorFlow-0A0E27?style=flat-square&labelColor=00BFFF"/>
+<img src="https://img.shields.io/badge/Keras-0A0E27?style=flat-square&labelColor=00BFFF"/>
+<img src="https://img.shields.io/badge/CNN-0A0E27?style=flat-square&labelColor=00BFFF"/>
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3>🐍&nbsp; Python Codebook</h3>
+<p>A structured, continuously growing repository documenting my Python learning journey.</p>
+<p>
+<img src="https://img.shields.io/badge/Python-0A0E27?style=flat-square&labelColor=00BFFF"/>
+<img src="https://img.shields.io/badge/Learning_Log-0A0E27?style=flat-square&labelColor=00BFFF"/>
+</p>
+</td>
+<td width="50%">
+<h3>🤖&nbsp; AI Chatbot</h3>
+<p>Conversational AI assistant — currently in active development.</p>
+<p>
+<img src="https://img.shields.io/badge/In_Progress-0A0E27?style=flat-square&labelColor=FFB800&color=0A0E27"/>
+</p>
+</td>
+</tr>
+</table>
 
-> ⚡ *Real problems. Practical models. Meaningful impact.*
+<br/>
+
+## `03` Tech Stack
+
+<table align="center">
+<tr>
+<td align="center" valign="top" width="33%">
+
+**Languages**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java&theme=dark"/>
+
+</td>
+<td align="center" valign="top" width="33%">
+
+**AI / ML**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Keras-0A0E27?style=flat-square&labelColor=00BFFF"/>
+<img src="https://img.shields.io/badge/YOLOv8-0A0E27?style=flat-square&labelColor=00BFFF"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-0A0E27?style=flat-square&labelColor=00BFFF"/>
+
+</td>
+<td align="center" valign="top" width="33%">
+
+**Data & Tools**
+<br/><br/>
+<img src="https://img.shields.io/badge/NumPy-0A0E27?style=flat-square&labelColor=00BFFF"/>
+<img src="https://img.shields.io/badge/Pandas-0A0E27?style=flat-square&labelColor=00BFFF"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## `04` GitHub Analytics
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=KrishSharma1903&theme=tokyonight&hide_border=true&background=0A0E27&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&sideLabels=E6F1FF&currStreakNum=E6F1FF&sideNums=E6F1FF&dates=8B98B9" height="165"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KrishSharma1903&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0E27&title_color=00BFFF&text_color=E6F1FF&langs_count=8" height="165"/>
+
+</div>
+
+<br/>
+
+## `05` Connect
+
+<div align="center">
+
+<a href="https://github.com/KrishSharma1903"><img src="https://img.shields.io/badge/GitHub-0A0E27?style=for-the-badge&logo=github&logoColor=00BFFF"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/krish-sharma-csdev/"><img src="https://img.shields.io/badge/LinkedIn-0A0E27?style=for-the-badge&logo=linkedin&logoColor=00BFFF"/></a>&nbsp;
+<a href="mailto:Krishsharma1903@gmail.com"><img src="https://img.shields.io/badge/Email-0A0E27?style=for-the-badge&logo=gmail&logoColor=00BFFF"/></a>
+
+<br/><br/>
+
+<i>"Build practical solutions that create impact."</i>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:0A0E27&height=100&section=footer"/>
