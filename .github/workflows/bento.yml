@@ -1,0 +1,39 @@
+name: Update profile card
+
+on:
+  schedule:
+    - cron: "30 0 * * *"   # daily at 06:00 IST
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["scripts/bento.py", ".github/workflows/bento.yml"]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate bento.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          mkdir -p out
+          python3 scripts/bento.py out/bento.svg
+
+      # The card lives on its own "output" branch so daily updates never touch main
+      # (no extra contributors, no inflated contribution graph).
+      - name: Publish to output branch
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          cd out
+          git init -q -b output
+          git config user.name "Krish Sharma"
+          git config user.email "krishsharma1903@gmail.com"
+          git add bento.svg
+          git commit -q -m "Update profile card"
+          git push -q --force "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" output
